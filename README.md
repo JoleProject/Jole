@@ -1,2 +1,1 @@
-# Jole
-The code of Jole
+The code for JoLe (Jointly training with deep environment models).
